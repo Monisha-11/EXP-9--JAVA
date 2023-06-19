@@ -1,4 +1,4 @@
-# EXP-9 -> ADD,RETRIEVE AND REMOVE THE ELEMENT FROM THE ARRAYLIST.
+# EXP 06 - ADD,RETRIEVE AND REMOVE THE ELEMENT FROM THE ARRAYLIST.
 
 ## AIM:
 To write the java program  to add, retrieve and remove the element from the ArrayList.
